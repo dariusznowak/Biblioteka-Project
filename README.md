@@ -1,3 +1,3 @@
 ## Projekt biblioteki 
 
-Projekt biblioteki 3 semestr AGH Informatyka stosowana WIMIiIP. Język programowania to **C++**. 
+Projekt biblioteki 3 semestr AGH Informatyka stosowana WIMiIP. Język programowania to **C++**. 
