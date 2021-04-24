@@ -1,3 +1,3 @@
 ## Projekt biblioteki 
 
-Projekt biblioteki 3 semestr AGH Informatyka stosowana WIMiIP. Język programowania to **C++**. 
+Projekt systemu do obsługi biblioteki. Zawiera on diagramy UML, takie jak: diagram klas, diagram sekwencji, diagram przepływu danych.
